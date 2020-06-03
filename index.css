@@ -1,3 +1,40 @@
-* {
-    color: red;
+*{
+    box-sizing:border-box;
+    padding:0;
+    margin:0;
+    max-width:100%;
+    border:1px solid grey;
+  }
+
+h1 {
+    font-family: Chelsea Market;
+}
+
+header p {
+    font-family: Roboto Mono;
+    text-align: center;
+    width: 27%;
+}
+
+#valley {
+    background-color: #DDB9A3;
+    color: white;
+    text-align: center;
+    font-family: Roboto Mono;
+}
+
+#fire {
+    width: 25%;
+    text-align: center;
+    font-family: Roboto Mono;
+}
+
+#reservations {
+    width: 25%;
+    text-align: center;
+    font-family: Roboto Mono;
+}
+
+footer {
+    background-color: #F9E7DC;
 }

@@ -6,6 +6,10 @@
     /*border:1px solid grey;*/
   }
 
+  html {
+      /*font-size: 62.5px;*/
+  }
+
   .red {
     display:inline-block;
     width:10%;
@@ -48,6 +52,7 @@
     width: 18%;
     border-radius: 100%;
     margin: 2% 5%;
+    display: inline-block;
 }
 
 #image4 img {
@@ -57,6 +62,7 @@
 
 h1 {
     font-family: Chelsea Market;
+    text-align: center;
     margin: 3%;
     display: inline-block;
 }
@@ -66,6 +72,9 @@ header p {
     text-align: center;
     width: 27%;
     display: inline-block;
+}
+span {
+    font-weight: bold;
 }
 
 .valley {

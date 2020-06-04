@@ -59,15 +59,19 @@
     width: 100%;
     height: 25vh;
 }
-
 h1 {
     font-family: Chelsea Market;
+}
+
+
+#come {
+    font-family: Roboto Mono;
     text-align: center;
     margin: 3%;
     display: inline-block;
 }
 
-header p {
+#always {
     font-family: Roboto Mono;
     text-align: center;
     width: 27%;

@@ -57,21 +57,36 @@
 
 h1 {
     font-family: Chelsea Market;
+    margin: 3%;
+    display: inline-block;
 }
 
 header p {
     font-family: Roboto Mono;
     text-align: center;
     width: 27%;
+    display: inline-block;
 }
 
-#valley {
+.valley {
+    width: 90%;
+    margin: auto;
+}
+
+#v1 {
     background-color: #DDB9A3;
     color: white;
     text-align: center;
     font-family: Roboto Mono;
-    width: 60%;
-    margin: 3%;
+    padding: 2% 0 1%;
+}
+
+#v2 {
+    background-color: #DDB9A3;
+    color: white;
+    text-align: center;
+    font-family: Roboto Mono;
+    padding: 1% 0 2%;
 }
 
 #fire {

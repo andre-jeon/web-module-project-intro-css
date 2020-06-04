@@ -1,0 +1,123 @@
+*{
+    box-sizing:border-box;
+    padding:0;
+    margin:0;
+    max-width:100%;
+    /*border:1px solid grey;*/
+  }
+
+  html {
+      /*font-size: 62.5px;*/
+  }
+
+  .red {
+    display:inline-block;
+    width:10%;
+    text-align:center;
+    background-color:#FF764E;
+    color:white;
+    padding:10% auto;
+    border-radius:10px;
+  }
+
+  .blue {
+    display:inline-block;
+    width:10%;
+    text-align:center;
+    background-color:#5ED3EB;
+    color:white;
+    padding:10% auto;
+    border-radius:10px;
+  }
+
+  .yellow {
+    display:inline-block;
+    width:8%;
+    text-align:center;
+    background-color:#FFCD69;
+    color:white;
+    padding: 10% auto;
+    border-radius:10px;
+  }
+
+  nav a {
+    text-decoration: none;
+    font-family: Roboto Mono;
+    text-align:justify;
+    margin: 2% 11%;
+    display: inline-block;
+  }
+
+#image1 img {
+    width: 18%;
+    border-radius: 100%;
+    margin: 2% 5%;
+    display: inline-block;
+}
+
+#image4 img {
+    width: 100%;
+    height: 25vh;
+}
+h1 {
+    font-family: Chelsea Market;
+}
+
+
+#come {
+    font-family: Roboto Mono;
+    text-align: center;
+    margin: 3%;
+    display: inline-block;
+}
+
+#always {
+    font-family: Roboto Mono;
+    text-align: center;
+    width: 27%;
+    display: inline-block;
+}
+span {
+    font-weight: bold;
+}
+
+.valley {
+    width: 90%;
+    margin: auto;
+}
+
+#v1 {
+    background-color: #DDB9A3;
+    color: white;
+    text-align: center;
+    font-family: Roboto Mono;
+    padding: 2% 0 1%;
+}
+
+#v2 {
+    background-color: #DDB9A3;
+    color: white;
+    text-align: center;
+    font-family: Roboto Mono;
+    padding: 1% 0 2%;
+}
+
+#fire {
+    width: 25%;
+    text-align: center;
+    font-family: Roboto Mono;
+    margin: 0 auto;
+    padding: 2%;
+}
+
+#reservations {
+    width: 25%;
+    text-align: center;
+    font-family: Roboto Mono;
+    margin: 0 auto;
+    padding: 2%;
+}
+
+footer {
+    background-color: #F9E7DC;
+}
